@@ -17,18 +17,14 @@ O usuário escolhe um número e se quer **Par** ou **Ímpar**, e o computador es
 
 ## ▶️ Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/ManoelMarques10/jogo-par-ou-impar.git
-2. Acesse a pasta do projeto:
-   ```bash
-   cd jogo-par-ou-impar
-3. Execute o jogo com Python (requer Python instalado):
-   ```bash
-   python jogo_par_ou_impar.py
+1. Copie o código do programa na pasta "Jogo".
+2. Cole ela em um terminal que leia python.
+3. Aperte para rodar o códigp.
+   
 ---
 
-## 💡 O que aprendi
+## 💡 O que você vê nesse programa
+
 - Estruturas de repetição (while)
 - Condicionais (if/else)
 - Uso da biblioteca random
