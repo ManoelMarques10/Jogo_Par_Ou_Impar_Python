@@ -17,17 +17,17 @@ O usuário escolhe um número e se quer **Par** ou **Ímpar**, e o computador es
 
 ## ▶️ Como executar
 
-1. Copie o código do programa na pasta "Jogo".
-2. Cole ela em um terminal que leia python.
-3. Aperte para rodar o códigp.
-   
+1. Copie o código do programa que está na pasta **Jogo**.
+2. Cole em um terminal que rode código Python (como o VS Code, Thonny, ou IDLE).
+3. Execute o código para jogar.
+
 ---
 
 ## 💡 O que você vê nesse programa
 
-- Estruturas de repetição (while)
-- Condicionais (if/else)
-- Uso da biblioteca random
-- Interação com o usuário via input()
+- Estruturas de repetição (`while`)
+- Condicionais (`if/else`)
+- Uso da biblioteca `random`
+- Interação com o usuário via `input()`
 
 ---
